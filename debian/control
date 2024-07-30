@@ -5,6 +5,7 @@ Maintainer: Bardia Moshiri <fakeshell@bardia.tech>
 Uploaders: Bardia Moshiri <fakeshell@bardia.tech>
 XS-Droidian-Host-Arch: arm64
 XS-Droidian-Build-On: amd64
+XS-Droidian-Extra-Repos: deb http://droidian-initramfs-tools-halium.repo.droidian.org/next-mount-vendor/ trixie main
 Build-Depends: build-essential,
                dpkg-dev,
                findutils,
